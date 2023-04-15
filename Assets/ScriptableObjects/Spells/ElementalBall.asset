@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85ccad4114dcdbb42a22a18383ac417b, type: 3}
+  m_Name: ElementalBall
+  m_EditorClassIdentifier: 
+  spellTitle: ElementalBall
+  cooldown: 0.3
+  castTime: 0
+  baseDamage: 30
+  spell: {fileID: 1412664714526703782, guid: 8f20a3b9fdaa80646a72e89a2a447716, type: 3}
+  spellSprite: {fileID: 2704745366019506510, guid: 05104f0a67142f64aaf63dcf6f120a01, type: 3}
+  castCounter: 18

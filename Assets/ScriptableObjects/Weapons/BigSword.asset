@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5d646c1f60d1ca4ca0c4ca57fbacca2, type: 3}
+  m_Name: BigSword
+  m_EditorClassIdentifier: 
+  weaponTitle: BigSword
+  swingType: {fileID: 2736408396346693766, guid: d28a804b5a403e849a7cdd5ed1edf50f, type: 3}
+  weaponSprite: {fileID: 7834802711767081893, guid: 8041fe6b62fa3da40a4b9b3a91a70c53, type: 3}
+  attackDamageMultiplier: 1.5
+  swingSpeedMultiplier: 0.8
+  critChance: 10

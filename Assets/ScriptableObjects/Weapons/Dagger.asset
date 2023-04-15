@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5d646c1f60d1ca4ca0c4ca57fbacca2, type: 3}
+  m_Name: Dagger
+  m_EditorClassIdentifier: 
+  weaponTitle: Dagger
+  swingType: {fileID: 4796805673087782393, guid: 20dbee2428e22a54c875f89ae00ecdea, type: 3}
+  weaponSprite: {fileID: -5082318553336741150, guid: 8041fe6b62fa3da40a4b9b3a91a70c53, type: 3}
+  attackDamageMultiplier: 0.7
+  swingSpeedMultiplier: 2
+  critChance: 20

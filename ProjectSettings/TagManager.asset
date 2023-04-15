@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Grass
+  - Water
+  - Weapon
+  - enemy
+  - Destructable
+  - bullet
+  - Wall
+  - Spell
+  - Swing
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - FrontEffects
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Destructables
+  - Ground
+  - Grass
+  - FlyingEnemies
+  - DashingEnemies
+  - Spell
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - DrownCheck
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: EnemyAttackEffect
+    uniqueID: 3012743991
+    locked: 0
+  - name: Game
+    uniqueID: 1640871409
+    locked: 0
+  - name: FrontEffects
+    uniqueID: 837373387
+    locked: 0
+  - name: UI
+    uniqueID: 854777843
+    locked: 0
